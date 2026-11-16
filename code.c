@@ -1,7 +1,6 @@
 
 #include <stdio.h>
 
-//Ilhanan nga na push -tala
 int main() {
 
     int choice, again = 1;
